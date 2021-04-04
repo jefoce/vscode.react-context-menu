@@ -1,0 +1,6 @@
+/dist
+/node_modules
+/out
+/package-lock.json
+/vsc-extension-quickstart.md
+react-context-menu-*
